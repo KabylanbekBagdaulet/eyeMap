@@ -10,6 +10,6 @@ The voice AI assistant helps users reach their destinations by providing route g
 ## Alignment with DPG
 This project is undergoing self-assessment as a Digital Public Good (DPG).
 
-- **SDGs:** The project supports SDG №10 and №11.
+- **SDGs:** The project supports SDG [№10](https://sdgs.un.org/goals/goal10) and [№11](https://sdgs.un.org/goals/goal11).
 - **License:** MIT.
 - **Ownership:** Student team from KBTU.
